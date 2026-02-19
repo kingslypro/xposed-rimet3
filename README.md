@@ -106,7 +106,7 @@
 
 ## 更新日志
 
-### 2022年08月19日 20点45分
+# 2022年08月19日 20点45分
 
 1. 更新`amap sdk` `AMap2DMap_6.0.0_AMapSearch_9.2.0_AMapLocation_6.1.0_20220414.jar`
 2. 添加`testkey.jks`(Android通用测试key)到项目
